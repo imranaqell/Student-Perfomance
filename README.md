@@ -1,7 +1,7 @@
-# Suicide-Rates-1985-2016
+# Student Performance
 
-**Analysis of Suicide Rates From 2016 to 2016**
+**Analysis of Student Performance**
 
-Suicide is the deliberate act of killing oneself. Risk factors include mental illnesses, physical illnesses, and substance abuse disorders. Some suicides are motivated by stress, relationship issues, or harassment and bullying. Those who have previously attempted suicide are more likely to attempt again. Effective suicide prevention efforts include limiting access to suicide methods such as firearms, drugs, and poisons, treating mental illnesses and substance abuse, carefully reporting on suicide in the media, and improving economic conditions.
+An examination or test is a type of educational assessment that is used to assess a test-knowledge, taker's skill, aptitude, physical fitness, or classification in a variety of subjects. A test can be given verbally, on paper, on a computer, or in a specific location that requires the test taker to demonstrate or perform a set of skills.
 
-In this repository, I will be analyzing the suicide rates data by comparing the age and sex of those who took their own life, analyzing the countries with the highest rate of suicide per capita and relate the suicide rates with the other variables such as population and GDP
+In this repository, I will be analyzing the student's performance across math, writing, and reading scores. Other than that, I am also analyzing whether there is a correlation between parents' level of education and the number of students who passed the exams.
